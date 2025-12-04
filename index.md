@@ -1,7 +1,7 @@
 
-## Edgar Martinex
+## Edgar Martinez
 
-I am a electrical engineer at CSUF and I plan on graduating in 2029
+I am an electrical engineer major at CSUF and I plan on graduating in 2029
 
 ## Favorite CPSC 120L Labs
 
